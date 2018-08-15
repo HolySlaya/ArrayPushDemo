@@ -1,4 +1,5 @@
 //build array that stores first and last names. The default value of the array will be empty
+//Suckas, dont steal my code.
 var firstArr = [];
 var lastArr = [];
 //ask user for a first name and store it in the first names array
